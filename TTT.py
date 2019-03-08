@@ -104,8 +104,7 @@ while True:
                     display_board(the_board)
                     print('Draw!')
                     game = False
-                else:
-				# ULAN BURADA YARIM SAAT UĞRAŞTIM AMINA KOYAYIM BİR BACKSPACE YAPMAK YETERLİYMİŞ SİKERİM KODLAMASINI AMK DİYORUM ÇALIŞMIYO KAFAYI YİCEM. KOCA OYUNU BU YARAK KİTLİYOR.
+                else:				
                     turn = 'Player 1'
         #REPLAY
     if not replay():
